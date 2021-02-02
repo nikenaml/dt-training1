@@ -1,6 +1,6 @@
 # dt-training1
 
-This training discusses Data Science held by institutions engaged in information technology education, namely Mutiara Technology Indonesia. The training was held for a whole month.
+This section is a training session that discusses Data Science. The training lasts for one full month and is organized by one of the institutions engaged in information technology education, namely Mutiara Technology Indonesia.
 
 - The first week discusses the basic introduction to Python
 - The second week discusses the basic use of pandas and NumPy
